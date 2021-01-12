@@ -1,0 +1,19 @@
+{
+  "name": "template-bot",
+  "version": "1.0.0",
+  "description": "temlate bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedrak/temlate-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedrak/temlate-bot/issues"
+  },
+  "homepage": "https://github.com/jedrak/temlate-bot#readme"
+}
