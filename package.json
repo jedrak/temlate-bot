@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jedrak/temlate-bot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "discord.js-commando": "^0.10.0",
+    "discord.js-commando": "git+https://github.com/discordjs/Commando.git",
     "dotenv": "^8.2.0"
   },
   "devDependencies": {
